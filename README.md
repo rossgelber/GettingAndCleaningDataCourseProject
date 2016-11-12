@@ -1,6 +1,6 @@
 # GettingAndCleaningDataCourseProject
 
-This course project takes measuremtn data from a IC-Irvine study on Human Activity and transforms it into a tidy dataset using the following instructions:
+This course project takes measuremtn data from a UC-Irvine study on Human Activity and transforms it into a tidy dataset using the following instructions:
 
 1. Merge the training and test sets to create one dataset.
 2. Extract only the measurements on mean and standard deviation for each measurement.
