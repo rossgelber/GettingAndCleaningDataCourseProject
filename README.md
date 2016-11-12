@@ -8,5 +8,6 @@ This course project takes measuremtn data from a UC-Irvine study on Human Activi
 4. Appropriately label the data with descriptive activity names.
 5. Create a tidy dataset with the average of each variable for each activity and subject.
 
-These steps were followed to create a tidy dataset called "tidy_tt.txt".
-The code to create this dataset can be found in the file "run_analysis.R"
+These steps were followed to create a tidy dataset called "tidy_tt.txt".  
+The code to create this dataset can be found in the file "run_analysis.R".    
+There is also a code book that contains information about the variables in the dataset.  
